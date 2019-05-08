@@ -1,7 +1,7 @@
 # Python 2
-##Programs written and used in DAT-129 Python 2 class
+## Programs written and used in DAT-129 Python 2 class
 
-###**Table of Contents**
+### **Table of Contents**
 
 1. 311 CSV Extraction
     *Utilizes 3-1-1 data from the WPRDC open source data to analyze public works service calls throughout the city of Pittsbugh.*
