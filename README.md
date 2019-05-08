@@ -25,7 +25,7 @@
     
  #  The work in this repository could not have been done without the resources of:
  - [OpenSecrets.org](https://www.opensecrets.org)
- - [ProPublica.org](https://propublica.org)
+ - [ProPublica Data Store](https://projects.propublica.org/api-docs/congress-api/)
  - [Western Pennsylvania Regional Data Center](www.wprdc.org)
  - [Basketball-Reference.com](https://www.basketball-reference.com)
  - [DarkSky.net](https://www.darksky.net)
