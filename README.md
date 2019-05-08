@@ -1,5 +1,5 @@
 # Python 2
-## Programs written and used in DAT-129 Python 2 class
+## Programs written and used in Prof. Eric Darsow's DAT-129 Python 2 class at the Community College of Allegheny County
 
 ### **Table of Contents**
 
@@ -26,5 +26,5 @@
  #  The work in this repository could not have been done without the resources of:
  - [OpenSecrets.org](https://www.opensecrets.org)
  - [ProPublica.org](https://propublica.org)
- - [Basketball-Refence.com](https://www.basketball-reference.com)
+ - [Basketball-Reference.com](https://www.basketball-reference.com)
  - [DarkSky.net](https://www.darksky.net)
